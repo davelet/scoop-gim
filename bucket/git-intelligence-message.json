@@ -4,6 +4,6 @@
   "homepage": "https://git-intelligence-message.pages.dev/",
   "license": "MIT",
   "url": "https://github.com/davelet/git-intelligence-message/releases/download/v1.7.0/gim-1.7.2.zip",
-  "hash": "3e6b1ec6d3c35d82c9475776af6210332a756e0bbae9a9750d55f51b2efa4a5c",
+  "hash": "f03ffabfe5b6904593a45e44d594f1b9860609127f07cafebe41637b3f776527",
   "bin": "gim.exe"
 }
