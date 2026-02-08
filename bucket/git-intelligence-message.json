@@ -1,9 +1,9 @@
 {
-  "version": "1.7.2",
+  "version": "2.0.0",
   "description": "AI-powered Git commit message generator",
   "homepage": "https://git-intelligence-message.pages.dev/",
   "license": "MIT",
-  "url": "https://github.com/davelet/git-intelligence-message/releases/download/v1.8.0/gim-1.8.0.zip",
-  "hash": "sha256:9db79f0ba26b38d933f2b2b125d17ce96b329ec780d2e2791f25b439d45d5fff",
+  "url": "https://github.com/davelet/git-intelligence-message/releases/download/v2.0.0/gim.zip",
+  "hash": "sha256:sha256:52e509e465b0b1be181e132335f687c43d0a1159ebb4e170d2ba7031718e0203",
   "bin": "gim.exe"
 }
